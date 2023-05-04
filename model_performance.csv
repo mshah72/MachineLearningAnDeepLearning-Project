@@ -1,0 +1,10 @@
+Model,Mean Squared Error,Root Mean Squared Error,R Square,Mean Absolute Error
+Decision Tree Model,18.91,4.35,0.94,3.1
+Decision Tree Model (with PCA),31.11,5.58,0.91,3.7
+KNN Regression,21.83,4.67,0.93,3.27
+Lasso Regression Model,45.97,6.78,0.86,5.1
+Linear Regression Model,45.98,6.78,0.86,5.1
+Polynomial Regression Model,17.13,4.14,0.95,2.93
+Random Forest Model,23.45,4.84,0.95,3.44
+Random Forest Model (with PCA),4.99,2.23,0.98,1.5
+Ridge Regression Model,45.97,6.78,0.86,5.1
