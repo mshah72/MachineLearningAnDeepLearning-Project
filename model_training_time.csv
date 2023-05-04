@@ -1,0 +1,10 @@
+Model,"Traditional Computer (RAM - 8.00 GB, vCPU - 8)","Google Colab (RAM - 12.7 GB, vCPU - 2)","AWS SageMaker (RAM - 32.00 GB, vCPU - 8)"
+Decision Tree Model,0.050864,0.034027,0.019665
+Decision Tree Model (with PCA),0.080812,0.022827,0.029848
+KNN Regression,0.066254,0.016832,0.027677
+Lasso Regression Model,0.012966,0.012229,0.009077
+Linear Regression Model,0.075797,0.050673,0.006553
+Polynomial Regression Model,0.175228,0.162937,0.089919
+Random Forest Model,5.846378,2.206671,2.976913
+Random Forest Model (with PCA),5.520597,5.133787,3.127575
+Ridge Regression Model,0.006937,0.012000,0.004187
